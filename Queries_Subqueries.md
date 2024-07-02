@@ -74,5 +74,6 @@ WHERE
                    FROM registrations r 
                    WHERE r.member_id = 1);
 ```
-![image](https://github.com/Jonna007/Queries_with_Subqueries/assets/146044709/e2a9e466-8a6d-49d3-9f68-4f9bd36ce1c0)
+![image](https://github.com/Jonna007/Queries_with_Subqueries/assets/146044709/2a50bb32-b2ff-4916-9120-6717ccf02045)
+
 
