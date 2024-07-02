@@ -4,7 +4,6 @@
 
 ### 1. El numero total de facturas realizadas por cada cliente.(nombre_cliente | direccion | nro_facturas)
 
-#### SQL:
 ```sql
 SELECT 
     c.fullname AS nombre_cliente,
